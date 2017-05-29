@@ -4,6 +4,7 @@ jkjkj
 
 cdafdsf
 dfdsfdf
+<<<<<<< HEAD
 cena celebrations
 
 
@@ -17,3 +18,5 @@ fsdfdsfdsf
 fsdfdfd
 fsdfdsf
  448a85835a1d2cedf3f8ad9d7513cd0ba0f14031
+=======
+>>>>>>> parent of 841e2e4... added new text to file2
